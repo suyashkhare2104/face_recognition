@@ -1,0 +1,3 @@
+face_recogonition
+numpy
+opencv-python
